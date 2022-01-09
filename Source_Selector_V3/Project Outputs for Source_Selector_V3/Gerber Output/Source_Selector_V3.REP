@@ -1,0 +1,213 @@
+*************************************************************
+FileName = Source_Selector_V3.GBR
+AutoAperture = True
+*************************************************************
+Generating : Board
+      File : Source_Selector_V3.GM4
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Source_Selector_V3.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Signal
+      File : Source_Selector_V3.G2
+
+    Adding Layer      : Signal
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D33
+    D34
+    D35
+    D36
+    D38
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Source_Selector_V3.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Source_Selector_V3.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Source_Selector_V3.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D18
+    D19
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Source_Selector_V3.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D47
+    D49
+    D50
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Source_Selector_V3.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D18
+    D19
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : Source_Selector_V3.G1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D33
+    D34
+    D35
+    D38
+    D42
+*************************************************************
+
