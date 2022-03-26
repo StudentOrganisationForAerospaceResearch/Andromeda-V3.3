@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=SPI2_MISO Pin=U1-10
-Removed Pin From Net: NetName=SPI2_MOSI Pin=U1-11
-Added Member To Class: ClassName=DMB Member=Component R19 RT0603DRE076K49L
-Added Member To Class: ClassName=DMB Member=Component R20 RT0603DRE076K49L

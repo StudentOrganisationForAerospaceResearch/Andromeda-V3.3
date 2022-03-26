@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=MAINBAT Pin=J2-12
-Removed Pin From Net: NetName=LED3 Pin=U1-37
-Removed Pin From Net: NetName=LED2 Pin=U1-38
-Removed Pin From Net: NetName=LED1 Pin=U1-39
-Added Pin To Net: NetName=MAINBAT Pin=J2-7
-Added Pin To Net: NetName=LED3 Pin=U1-38
-Added Pin To Net: NetName=LED2 Pin=U1-39
-Added Pin To Net: NetName=LED1 Pin=U1-40
-Added Room: Name=DMB
