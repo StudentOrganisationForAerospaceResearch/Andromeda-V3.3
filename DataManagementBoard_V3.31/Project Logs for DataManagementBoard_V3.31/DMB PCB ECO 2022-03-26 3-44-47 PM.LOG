@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=+3V3 Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=D9-1
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=UART1_RX Pin=U2-9
+Removed Pin From Net: NetName=UART1_TX Pin=U2-11
+Removed Pin From Net: NetName=GND Pin=U2-12
+Removed Pin From Net: NetName=GND Pin=U2-14
+Removed Pin From Net: NetName=+3V3 Pin=U2-15
+Removed Pin From Net: NetName=+3V3 Pin=U2-16
+Removed Member From Class: ClassName=DMB Member=C12
+Removed Member From Class: ClassName=DMB Member=C13
+Removed Member From Class: ClassName=DMB Member=C14
+Removed Member From Class: ClassName=DMB Member=C15
+Removed Member From Class: ClassName=DMB Member=C16
+Removed Member From Class: ClassName=DMB Member=D9
+Removed Member From Class: ClassName=DMB Member=R10
+Removed Member From Class: ClassName=DMB Member=U2
+Added Room: Name=DMB
