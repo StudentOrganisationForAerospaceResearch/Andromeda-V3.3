@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GS_PROP3_12V Pin=J2-5
+Removed Pin From Net: NetName=KLB_CTRL Pin=J2-6
+Added Pin To Net: NetName=KLB_CTRL Pin=J2-5
+Added Pin To Net: NetName=GS_PROP3_12V Pin=J2-6
+Added Room: Name=DMB
