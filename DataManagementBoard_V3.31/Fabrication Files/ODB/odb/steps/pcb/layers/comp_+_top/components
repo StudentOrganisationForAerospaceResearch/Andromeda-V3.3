@@ -1,0 +1,1310 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 1 0.976378 0.8110236 90 N R8 RC1608F331CS ;0=1,1=0.4921
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.samsungsem.com/kr/support/product-search/chip-resistor/__icsFiles/afieldfile/2019/01/21/RC_Spec_Sheet(1901).pdf'
+PRP Composition 'Thick Film'
+PRP Manufacturer 'Samsung Electro-Mechanics'
+PRP Manufacturer_Part_Number 'RC1608F331CS'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Package '0603 (1608 Metric)'
+PRP Power__(W) '0.1W'
+PRP Resistance '330'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-4604-2-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+TOP 0 0.976378 0.8484252 0 N 1 1 R8-1
+TOP 1 0.976378 0.773622 0 N 61 67 R8-2
+#
+# CMP 1
+CMP 1 1.015748 0.9409449 180 N R7 RC1608F331CS ;0=1,1=0.4921
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.samsungsem.com/kr/support/product-search/chip-resistor/__icsFiles/afieldfile/2019/01/21/RC_Spec_Sheet(1901).pdf'
+PRP Composition 'Thick Film'
+PRP Manufacturer 'Samsung Electro-Mechanics'
+PRP Manufacturer_Part_Number 'RC1608F331CS'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Package '0603 (1608 Metric)'
+PRP Power__(W) '0.1W'
+PRP Resistance '330'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-4604-2-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+TOP 0 1.0531496 0.9409449 90 N 2 1 R7-1
+TOP 1 0.9783464 0.9409449 90 N 1 0 R7-2
+#
+# CMP 2
+CMP 5 0.6889764 0.7440945 0 N LS CPT-9019S-SMT ;0=1,1=0.4921
+PRP Availability 'Unavailable'
+PRP MF 'CUI Devices'
+PRP MP 'CPT-9019S-SMT-TR'
+PRP Package 'SIP-1'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/CPT-9019S-SMT-TR/CUI%20Devices/view-part/563283/?ref=snap'
+PRP Value ''
+TOP 0 0.6889764 0.9015748 0 N 1 2 LS-1
+TOP 1 0.6889764 0.5866142 0 N 61 72 LS-2
+#
+# CMP 3
+CMP 4 0.5551181 0.4606299 90 N D5 CDSOD323-T12C ;0=1,1=0.0449
+PRP Bidirectional_Channels '1'
+PRP Capacitance_@_Frequency '3pF @ 1MHz'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://www.bourns.com/docs/Product-Datasheets/CDSOD323-TxxC.PDF'
+PRP Current_-_Peak_Pulse_(10/1000µs) '11A (8/20µs)'
+PRP Manufacturer 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'CDSOD323-T12C'
+PRP Mounting_Type 'Surface Mount'
+PRP Operating_Temperature '-55°C ~ 150°C (TJ)'
+PRP Package_/_Case 'SC-76, SOD-323'
+PRP Power_-_Peak_Pulse '350W'
+PRP Power_Line_Protection 'No'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'CDSOD323-T12CCT-ND'
+PRP Type 'Zener'
+PRP Voltage_-_Breakdown_(Min) '13.3V'
+PRP Voltage_-_Clamping_(Max)_@_Ipp '28.3V (Typ)'
+PRP Voltage_-_Reverse_Standoff_(Typ) '12V'
+TOP 0 0.5551181 0.503937 270 N 7 0 D5-1
+TOP 1 0.5551181 0.4173228 270 N 61 75 D5-2
+#
+# CMP 4
+CMP 2 0.8149606 0.3116142 0 N J10 43045-0427 ;0=2,1=0.4921
+TOP 0 0.8740157 0.2362205 0 N 61 73 J10-1
+TOP 1 0.7559055 0.2362205 0 N 69 33 J10-2
+TOP 2 0.8740157 0.3543307 0 N 39 1 J10-3
+TOP 3 0.7559055 0.3543307 0 N 38 1 J10-4
+TOP 4 0.6377952 0.3913386 0 N 0 33 J10-empty-1
+TOP 5 0.992126 0.3913386 0 N 0 32 J10-empty-2
+#
+# CMP 5
+CMP 18 0.3571731 0.9543308 90 N J2 5745782-4 ;0=2,1=0.5091
+PRP 3D_Model '5745782-4.pdf'
+PRP Catalog_Drawings 'AMPD-SubMale.318'
+PRP Category 'Connectors,Interconnects'
+PRP Color 'Black'
+PRP Connector_Style 'D-Sub'
+PRP Connector_Type 'Receptacle,FemaleSockets'
+PRP Contact_Finish 'Gold'
+PRP Contact_Finish_Thickness '30µin(0.76µm)'
+PRP Contact_Type 'Signal'
+PRP Current_Rating '6A'
+PRP Datasheet_URL 'http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5745782&DocType=Customer+Drawing&DocLang=English'
+PRP Datasheet_Version 'Rev. R, 08/2011'
+PRP Dynamic_Catalog 'AMPLIMITEHD-20Series'
+PRP Family 'D-SubConnectors'
+PRP Featured_Product 'AMPLIMITED-SubminiatureConnectors'
+PRP Features 'GroundStrap'
+PRP Flange_Feature 'Housing/Shell(4-40)'
+PRP Housing_Material 'Thermoplastic'
+PRP Manufacturer 'TE Connectivity'
+PRP Manufacturer_URL 'http://www.te.com/'
+PRP Mating_Products '1-745494-8-ND-CONNPLUG15POS26-22AWGGOLD/FLA34118-ND-CONND-SUBPLUG15P22-26AWGAUA32503-ND-CONNDSUBPLUG15POSSLDCUPAMR15B-ND-CONND-SUBPLUG15POSGOLDAML15B-ND-CONND-SUBPLUG15POSGOLDA31968-ND-CONND-SUBPLUG15P22-26AWGAUA31967-ND-CONND-SUBPLUG15P26-30AWGAU'
+PRP Mounting_Technology 'ThroughHole'
+PRP Mounting_Type 'ThroughHole,RightAngle'
+PRP Number_of_Positions '15'
+PRP Number_of_Rows '2'
+PRP Operating_Temperature '-55°C~105°C'
+PRP Other_Names 'A32076'
+PRP Package_Description 'Female D-Sub Connector, Pitch 2.74 mm, 2 Row, 15 Position, Height 12.93 mm, Tail Length 3.18 mm'
+PRP Package_Reference '5745782-4'
+PRP Product_Training_Modules 'AMPLIMITED-SubConnectors'
+PRP RoHS_Information '5745782-4StatementofCompliance'
+PRP Series 'AMPLIMITEHD-20'
+PRP Shell_Material__Finish 'Steel,TinPlated'
+PRP Shell_Size__Connector_Layout '2(DA,A)'
+PRP Standard_Package '104'
+PRP Termination 'Solder'
+PRP Voltage_Rating '125V'
+TOP 0 0.4130787 0.576378 90 N 7 2 J2-1
+TOP 1 0.4130787 0.684252 90 N 13 2 J2-2
+TOP 2 0.4130787 0.792126 90 N 61 77 J2-3
+TOP 3 0.4130787 0.9 90 N 61 76 J2-4
+TOP 4 0.4130787 1.007874 90 N 3 1 J2-5
+TOP 5 0.4130787 1.115748 90 N 15 2 J2-6
+TOP 6 0.4130787 1.223622 90 N 16 2 J2-7
+TOP 7 0.4130787 1.331496 90 N 61 70 J2-8
+TOP 8 0.3012677 0.630315 90 N 12 2 J2-9
+TOP 9 0.3012677 0.738189 90 N 61 79 J2-10
+TOP 10 0.3012677 0.846063 90 N 61 78 J2-11
+TOP 11 0.3012677 0.953937 90 N 4 4 J2-12
+TOP 12 0.3012677 1.061811 270 N 4 3 J2-13
+TOP 13 0.3012677 1.169685 270 N 4 2 J2-14
+TOP 14 0.3012677 1.277559 270 N 17 2 J2-15
+TOP 15 0.3582677 0.2984252 90 N 61 80 J2-MH1
+TOP 16 0.3582677 1.6102362 90 N 61 57 J2-MH2
+#
+# CMP 6
+CMP 13 0.3307087 1.8480315 270 N J1 TSW-106-07-G-D ;0=2,1=0.3378
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.samtec.com'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.samtec.com/documents/webfiles/pdf/TSW_TH.PDF'
+PRP ComponentLink3Description 'Package Specification'
+PRP ComponentLink3URL 'http://www.samtec.com/documents/webfiles/cpdf/TSW-XXX-XX-XXX-X-XX-XXX-MKT.pdf'
+PRP DatasheetVersion 'F-214'
+PRP Manufacturer 'Samtec'
+PRP Mounting_Technology 'Through-hole'
+PRP Orientation 'Vertical'
+PRP PackageDescription '.025[0.64] SQ. Post Terminal Strip Assembly'
+PRP PackageReference 'TSW-106-07-X-D'
+PRP PackageVersion 'DM, 8/1988'
+PRP PartNumber 'TSW-106-07-G-D'
+PRP Pitch '2.54 mm'
+PRP RoHS 'True'
+PRP Temperature_Range '-55 to 125 degC'
+TOP 0 0.3307087 1.8480315 270 N 68 3 J1-1
+TOP 1 0.2307087 1.8480315 270 N 69 32 J1-2
+TOP 2 0.3307087 1.9480315 270 N 61 55 J1-3
+TOP 3 0.2307087 1.9480315 270 N 42 1 J1-4
+TOP 4 0.3307087 2.0480315 270 N 23 1 J1-5
+TOP 5 0.2307087 2.0480315 270 N 61 54 J1-6
+TOP 6 0.3307087 2.1480315 270 N 24 1 J1-7
+TOP 7 0.2307087 2.1480315 270 N 41 1 J1-8
+TOP 8 0.3307087 2.2480315 270 N 33 1 J1-9
+TOP 9 0.2307087 2.2480315 270 N 50 1 J1-10
+TOP 10 0.3307087 2.3480315 270 N 32 1 J1-11
+TOP 11 0.2307087 2.3480315 270 N 40 1 J1-12
+#
+# CMP 7
+CMP 1 1.492126 0.8818898 180 N R20 RT0603DRE076K49L ;0=1,1=0.0000
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://4donline.ihs.com/images/VipMasterIC/IC/YAGO/YAGO-S-A0008510989/YAGO-S-A0008510989-1.pdf?hkey=52A5661711E402568146F3353EA87419'
+PRP Composition 'Thick Film'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RT0603DRE076K49L'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Package '0603 (1608 Metric)'
+PRP Power__(W) '0.1W'
+PRP Resistance '6.49K'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-2658-1-ND'
+PRP Temperature_Coefficient '±500ppm/°C'
+PRP Tolerance '±0.5%'
+TOP 0 1.5295276 0.8818898 90 N 5 0 R20-1
+TOP 1 1.4547244 0.8818898 90 N 69 20 R20-2
+#
+# CMP 8
+CMP 1 1.9488189 0.7559055 270 N R19 RT0603DRE076K49L ;0=1,1=0.0000
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://4donline.ihs.com/images/VipMasterIC/IC/YAGO/YAGO-S-A0008510989/YAGO-S-A0008510989-1.pdf?hkey=52A5661711E402568146F3353EA87419'
+PRP Composition 'Thick Film'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RT0603DRE076K49L'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Package '0603 (1608 Metric)'
+PRP Power__(W) '0.1W'
+PRP Resistance '6.49K'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-2658-1-ND'
+PRP Temperature_Coefficient '±500ppm/°C'
+PRP Tolerance '±0.5%'
+TOP 0 1.9488189 0.7185039 180 N 6 0 R19-1
+TOP 1 1.9488189 0.7933071 180 N 69 21 R19-2
+#
+# CMP 9
+CMP 20 1.6929134 0.7244094 0 N U6 W25Q16JVSSIQ ;0=1,1=0.0000
+PRP Availability 'Unavailable'
+PRP MF 'Winbond Electronics'
+PRP MP 'W25Q16JVSSIQ'
+PRP Package 'SOIC-8 Winbond'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/W25Q16JVSSIQ/Winbond%20Electronics/view-part/618098/?ref=snap'
+PRP Value ''
+TOP 0 1.5509843 0.7994094 0 N 5 1 U6-1
+TOP 1 1.5509843 0.7494094 0 N 10 0 U6-2
+TOP 2 1.5509843 0.6994094 0 N 14 0 U6-3
+TOP 3 1.5509843 0.6494094 0 N 61 39 U6-4
+TOP 4 1.8348425 0.6494094 0 N 9 0 U6-5
+TOP 5 1.8348425 0.6994094 0 N 8 0 U6-6
+TOP 6 1.8348425 0.7494094 0 N 6 1 U6-7
+TOP 7 1.8348425 0.7994094 0 N 69 22 U6-8
+#
+# CMP 10
+CMP 1 1.1732283 1.9212598 90 N C19 GRM1885C1H103JA01D ;0=1,1=0.0000
+PRP Capacitance '10nF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx?la=en-us'
+PRP Manufacturer 'Murata Electronics'
+PRP Manufacturer_Part_Number 'GRM1885C1H103JA01D'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-9666-1-ND'
+PRP Temperature_Coefficient 'C0G, NP0'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±50%'
+PRP Voltage_-_Rated '50V'
+TOP 0 1.1732283 1.9586614 0 N 61 46 C19-1
+TOP 1 1.1732283 1.8838582 0 N 19 1 C19-2
+#
+# CMP 11
+CMP 1 1.2992126 1.7972441 270 N C28 CGA3E2X7R1E104K080AA ;0=1,1=0.2098
+PRP Capacitance '0.1µF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_automotive_general_en.pdf'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA3E2X7R1E104K080AA'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-5667-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±10% '
+PRP Voltage_-_Rated '25V'
+TOP 0 1.2992126 1.7598425 180 N 61 43 C28-1
+TOP 1 1.2992126 1.8346457 180 N 69 13 C28-2
+#
+# CMP 12
+CMP 1 1.2992126 1.9192914 90 N C27 CGA3E2X7R1E104K080AA ;0=1,1=0.2098
+PRP Capacitance '0.1µF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_automotive_general_en.pdf'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA3E2X7R1E104K080AA'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-5667-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±10% '
+PRP Voltage_-_Rated '25V'
+TOP 0 1.2992126 1.956693 0 N 61 42 C27-1
+TOP 1 1.2992126 1.8818898 0 N 69 1 C27-2
+#
+# CMP 13
+CMP 1 1.2362205 1.9232284 90 N C26 CL10A106MP8NNNC ;0=1,1=0.2098
+PRP Capacitance '10µF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://static6.arrow.com/aropdfconversion/f91a1722e2705c3d73cfb1979021b64ae4055093/19-cl10a106mp8nnnc.pdf'
+PRP Manufacturer 'Samsung Electro-Mechanics'
+PRP Manufacturer_Part_Number 'CL10A106MP8NNNC'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature ' -55°C ~ 85°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-1871-1-ND'
+PRP Temperature_Coefficient 'X5R'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±20%'
+PRP Voltage_-_Rated '10V'
+TOP 0 1.2362205 1.96063 0 N 61 44 C26-1
+TOP 1 1.2362205 1.8858268 0 N 69 2 C26-2
+#
+# CMP 14
+CMP 1 1 1.511811 180 N R18 ERJ-3GEYJ103V ;0=1,1=0.3937
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/DMA0000COL11.pdf'
+PRP ComponentLink2Description 'Land Pattern'
+PRP ComponentLink2URL 'https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/DMA0000COL17.pdf'
+PRP Composition 'Thick Film'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ103V'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Package '0603 (1608 Metric)'
+PRP Power__(W) '0.1W'
+PRP Resistance '10K'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P10KGCT-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 1.0374016 1.511811 90 N 61 50 R18-1
+TOP 1 0.9625984 1.511811 90 N 12 0 R18-2
+#
+# CMP 15
+CMP 1 0.996063 1.4488189 180 N R17 ERJ-3GEYJ103V ;0=1,1=0.3937
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/DMA0000COL11.pdf'
+PRP ComponentLink2Description 'Land Pattern'
+PRP ComponentLink2URL 'https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/DMA0000COL17.pdf'
+PRP Composition 'Thick Film'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ103V'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Package '0603 (1608 Metric)'
+PRP Power__(W) '0.1W'
+PRP Resistance '10K'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P10KGCT-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 1.0334646 1.4488189 90 N 61 61 R17-1
+TOP 1 0.9586614 1.4488189 90 N 15 0 R17-2
+#
+# CMP 16
+CMP 1 0.5775984 1.43 0 N R16 ERJ-3GEYJ103V ;0=1,1=0.3937
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/DMA0000COL11.pdf'
+PRP ComponentLink2Description 'Land Pattern'
+PRP ComponentLink2URL 'https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/DMA0000COL17.pdf'
+PRP Composition 'Thick Film'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ103V'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Package '0603 (1608 Metric)'
+PRP Power__(W) '0.1W'
+PRP Resistance '10K'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P10KGCT-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 0.5401968 1.43 270 N 61 69 R16-1
+TOP 1 0.615 1.43 270 N 16 0 R16-2
+#
+# CMP 17
+CMP 1 0.5775984 1.53 0 N R15 ERJ-3GEYJ103V ;0=1,1=0.3937
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/DMA0000COL11.pdf'
+PRP ComponentLink2Description 'Land Pattern'
+PRP ComponentLink2URL 'https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/DMA0000COL17.pdf'
+PRP Composition 'Thick Film'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ103V'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Package '0603 (1608 Metric)'
+PRP Power__(W) '0.1W'
+PRP Resistance '10K'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P10KGCT-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 0.5401968 1.53 270 N 61 59 R15-1
+TOP 1 0.615 1.53 270 N 17 0 R15-2
+#
+# CMP 18
+CMP 6 1.2598425 2.2047243 270 N FID5 FID_1MM_ROUND_SL ;0=1,1=0.3937
+TOP 0 1.2598425 2.2047243 180 N 0 3 FID5-0
+#
+# CMP 19
+CMP 6 2.1574803 1.3070867 270 N FID3 FID_1MM_ROUND_SL ;0=1,1=0.3937
+TOP 0 2.1574803 1.3070867 180 N 0 4 FID3-0
+#
+# CMP 20
+CMP 6 0.0866142 0.1062992 0 N FID1 FID_1MM_ROUND_SL ;0=1,1=0.3937
+TOP 0 0.0866142 0.1062992 270 N 0 5 FID1-0
+#
+# CMP 21
+CMP 17 1.8897638 0.1299213 0 N C25 TAJD157K016RNJ ;0=1,1=0.1142
+PRP Capacitance '150µF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://datasheets.avx.com/TAJ.pdf'
+PRP ESR '900mOhm'
+PRP Height_-_Seated_(Max) '0.122_ (3.10mm)'
+PRP Manufacturer 'AVX Corporation'
+PRP Manufacturer_Part_Number 'TAJD157K016RNJ'
+PRP Manufacturer_Size_Code 'D'
+PRP Mounting_Type 'Surface Mount'
+PRP Operating_Temperature ' -55°C ~ 125°C'
+PRP Package_/_Case '2917 (7343 Metric)'
+PRP Size_/_Dimension '0.287_ L x 0.169_ W (7.30mm x 4.30mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '478-2356-1-ND'
+PRP Tolerance '±10%'
+PRP Type 'Molded'
+PRP Voltage_-_Rated '16V'
+TOP 0 1.7637795 0.1299213 180 N 67 8 C25-1
+TOP 1 2.0157481 0.1299213 180 N 61 30 C25-2
+#
+# CMP 22
+CMP 1 0.997402 1.73 180 N C24 CGA3E2X7R1E104K080AA ;0=1,1=0.3937
+PRP Capacitance '0.1µF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_automotive_general_en.pdf'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA3E2X7R1E104K080AA'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-5667-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±10% '
+PRP Voltage_-_Rated '25V'
+TOP 0 1.0348036 1.73 90 N 61 48 C24-1
+TOP 1 0.9600004 1.73 90 N 69 3 C24-2
+#
+# CMP 23
+CMP 1 0.577598 1.63 0 N R6 ERJ-3GEYJ103V ;0=1,1=0.3937
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/DMA0000COL11.pdf'
+PRP ComponentLink2Description 'Land Pattern'
+PRP ComponentLink2URL 'https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/DMA0000COL17.pdf'
+PRP Composition 'Thick Film'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ103V'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Package '0603 (1608 Metric)'
+PRP Power__(W) '0.1W'
+PRP Resistance '10K'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P10KGCT-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 0.5401964 1.63 270 N 61 56 R6-1
+TOP 1 0.6149996 1.63 270 N 13 0 R6-2
+#
+# CMP 24
+CMP 1 0.5775984 1.83 0 N C23 CGA3E2X7R1E104K080AA ;0=1,1=0.3937
+PRP Capacitance '0.1µF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_automotive_general_en.pdf'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA3E2X7R1E104K080AA'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-5667-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±10% '
+PRP Voltage_-_Rated '25V'
+TOP 0 0.5401968 1.83 270 N 61 52 C23-1
+TOP 1 0.615 1.83 270 N 67 5 C23-2
+#
+# CMP 25
+CMP 12 1.8464567 0.2913386 270 N F2 SF-0603FP500M-2 ;0=1,1=0.0071
+PRP Approval_Agency 'UL'
+PRP Breaking_Capacity_@_Rated_Voltage '35A'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://www.bourns.com/docs/Product-Datasheets/SF-0603FPxxxM.pdf'
+PRP Current_Rating_(Amps) '5A'
+PRP DC_Cold_Resistance '0.015 Ohms'
+PRP Fuse_Type 'Board Mount (Cartridge Style Excluded)'
+PRP Manufacturer 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'SF-0603FP500M-2'
+PRP Melting_I²t '2.62'
+PRP Mounting_Type 'Surface Mount'
+PRP Operating_Temperature '-55°C ~ 150°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Response_Time 'Fast Blow'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W x 0.012_ H (1.60mm x 0.80mm x 0.18mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SF-0603FP500M-2CT-ND'
+PRP Voltage_Rating_-_DC '32V'
+TOP 0 1.8464567 0.253937 180 N 67 9 F2-1
+TOP 1 1.8464567 0.3287402 180 N 18 1 F2-2
+#
+# CMP 26
+CMP 10 1.5748031 2.1653543 0 N MH4 Mounting_Hole ;0=2,1=0.0000
+TOP 0 1.5748031 2.1653543 180 N 0 27 MH4-0
+#
+# CMP 27
+CMP 10 2.007874 0.3937008 0 N MH3 Mounting_Hole ;0=2,1=0.0000
+TOP 0 2.007874 0.3937008 180 N 0 26 MH3-0
+#
+# CMP 28
+CMP 10 1.023622 0.5905512 0 N MH2 Mounting_Hole ;0=2,1=0.0000
+TOP 0 1.023622 0.5905512 180 N 0 25 MH2-0
+#
+# CMP 29
+CMP 10 1.023622 2.0472441 0 N MH1 Mounting_Hole ;0=2,1=0.0000
+TOP 0 1.023622 2.0472441 180 N 0 24 MH1-0
+#
+# CMP 30
+CMP 11 1.2923229 0.8858267 270 N U5 MS560702BA03-50 ;0=1,1=0.0000
+PRP Accuracy '±0.022PSI (±0.15kPa)'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5607-02BA03&DocType=Data+Sheet&DocLang=English'
+PRP Digi-Key_Part_Number '223-1198-1-ND'
+PRP Manufacturer 'TE Connectivity Measurement Specialties'
+PRP Manufacturer_Part_Number 'MS560702BA03-50'
+PRP Maximum_Pressure '87.02PSI (600kPa)'
+PRP Operating_Pressure '0.15PSI ~ 17.4PSI (1kPa ~ 120kPa)'
+PRP Operating_Temperature '-40°C ~ 85°C'
+PRP Output '24 b'
+PRP Output_Type 'I²C, SPI'
+PRP Package_/_Case '8-SMD'
+PRP Pressure_Type 'Absolute'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '223-1198-1-ND'
+PRP Termination_Style 'SMD (SMT) Tab'
+PRP Voltage_-_Supply '1.8V ~ 3.6V'
+TOP 0 1.2185039 0.8385827 270 N 69 19 U5-1
+TOP 1 1.2677165 0.8385827 270 N 61 64 U5-2
+TOP 2 1.3169291 0.8385827 270 N 61 63 U5-3
+TOP 3 1.3661417 0.8385827 270 N 62 1 U5-4
+TOP 4 1.3661417 0.9330709 270 N 62 2 U5-5
+TOP 5 1.3169291 0.9330709 270 N 45 0 U5-6
+TOP 6 1.2677165 0.9330709 270 N 44 0 U5-7
+TOP 7 1.2185039 0.9330709 270 N 43 0 U5-8
+#
+# CMP 31
+CMP 9 0.7883859 1.5549213 0 N U4 MC14504BDR2G ;0=1,1=0.0689
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://www.onsemi.com/pub/Collateral/MC14504B-D.PDF'
+PRP Manufacturer 'ON Semiconductor'
+PRP Manufacturer_Part_Number 'MC14504BDR2G'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'MC14504BDR2GOSCT-ND'
+TOP 0 0.6811024 1.7299213 270 N 67 7 U4-1
+TOP 1 0.6811024 1.6799213 270 N 49 0 U4-2
+TOP 2 0.6811024 1.6299213 270 N 13 1 U4-3
+TOP 3 0.6811024 1.5799213 270 N 60 0 U4-4
+TOP 4 0.6811024 1.5299213 270 N 17 1 U4-5
+TOP 5 0.6811024 1.4799213 270 N 59 0 U4-6
+TOP 6 0.6811024 1.4299213 270 N 16 1 U4-7
+TOP 7 0.6811024 1.3799213 270 N 61 68 U4-8
+TOP 8 0.8956693 1.3799213 270 N 15 1 U4-9
+TOP 9 0.8956693 1.4299213 270 N 58 0 U4-10
+TOP 10 0.8956693 1.4799213 270 N 12 1 U4-11
+TOP 11 0.8956693 1.5299213 270 N 57 0 U4-12
+TOP 12 0.8956693 1.5799213 270 N 61 58 U4-13
+TOP 13 0.8956693 1.6299213 270 N 61 51 U4-14
+TOP 14 0.8956693 1.6799213 270 N 0 11 U4-15
+TOP 15 0.8956693 1.7299213 270 N 69 18 U4-16
+#
+# CMP 32
+CMP 7 1.4055118 1.8818898 270 N U3 LSM9DS1TR ;0=1,1=0.1772
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://www.st.com/content/ccc/resource/technical/document/datasheet/1e/3f/2a/d6/25/eb/48/46/DM00103319.pdf/files/DM00103319.pdf/jcr:content/translations/en.DM00103319.pdf'
+PRP Manufacturer 'STMicroelectronics'
+PRP Manufacturer_Part_Number 'LSM9DS1TR'
+PRP Mounting_Type 'Surface Mount'
+PRP Operating_Temperature '-40°C ~ 85°C (TA)'
+PRP Output_Type ' I²C, SPI'
+PRP Package_/_Case '24-TFLGA Module'
+PRP Sensor_Type 'Accelerometer, Gyroscope, Magnetometer, Temperature, 9 Axis'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package '24-LGA (3x3.5)'
+PRP Supplier_Part_Number_1 '497-14946-1-ND'
+TOP 0 1.3574803 1.8226378 180 N 69 17 U3-1
+TOP 1 1.3801181 1.8240158 90 N 46 0 U3-2
+TOP 2 1.3970472 1.8240158 90 N 69 16 U3-3
+TOP 3 1.4139764 1.8240158 90 N 47 0 U3-4
+TOP 4 1.4309055 1.8240158 90 N 48 1 U3-5
+TOP 5 1.4535433 1.8226378 0 N 48 0 U3-6
+TOP 6 1.4535433 1.839567 0 N 66 0 U3-7
+TOP 7 1.4535433 1.8564961 0 N 54 0 U3-8
+TOP 8 1.4535433 1.8734252 0 N 0 10 U3-9
+TOP 9 1.4535433 1.8903544 0 N 0 9 U3-10
+TOP 10 1.4535433 1.9072835 0 N 0 8 U3-11
+TOP 11 1.4535433 1.9242126 0 N 0 7 U3-12
+TOP 12 1.4535433 1.9411418 0 N 0 6 U3-13
+TOP 13 1.4309055 1.9397638 270 N 61 20 U3-14
+TOP 14 1.4139764 1.9397638 270 N 61 22 U3-15
+TOP 15 1.3970472 1.9397638 270 N 61 21 U3-16
+TOP 16 1.3801181 1.9397638 270 N 61 23 U3-17
+TOP 17 1.3574803 1.9411418 180 N 61 24 U3-18
+TOP 18 1.3574803 1.9242126 180 N 61 25 U3-19
+TOP 19 1.3574803 1.9072835 180 N 61 26 U3-20
+TOP 20 1.3574803 1.8903544 180 N 19 0 U3-21
+TOP 21 1.3574803 1.8734252 180 N 69 15 U3-22
+TOP 22 1.3574803 1.8564961 180 N 69 14 U3-23
+TOP 23 1.3574803 1.839567 180 N 20 1 U3-24
+#
+# CMP 33
+CMP 1 1.3287401 0.7598426 180 N R11 ERJ-3GEYJ103V ;0=1,1=0.1772
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/DMA0000COL11.pdf'
+PRP ComponentLink2Description 'Land Pattern'
+PRP ComponentLink2URL 'https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/DMA0000COL17.pdf'
+PRP Composition 'Thick Film'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ103V'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Package '0603 (1608 Metric)'
+PRP Power__(W) '0.1W'
+PRP Resistance '10K'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P10KGCT-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 1.3661417 0.7598426 90 N 62 0 R11-1
+TOP 1 1.2913385 0.7598426 90 N 69 4 R11-2
+#
+# CMP 34
+CMP 0 1.9173228 2.0866142 270 N J9 0430450400 ;0=2,1=0.3453
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://www.molex.com/pdm_docs/sd/430450400_sd.pdf'
+PRP ComponentLink2Description 'Product Specification'
+PRP ComponentLink2URL 'https://www.molex.com/pdm_docs/ps/PS-43045.pdf'
+PRP Contact_Finish_-_Mating 'Tin'
+PRP Contact_Finish_-_Post 'Tin'
+PRP Contact_Finish_Thickness_-_Mating '100.0µin (2.54µm)'
+PRP Contact_Length_-_Post '0.125_ (3.18mm)'
+PRP Contact_Material 'Brass'
+PRP Contact_Shape 'Square'
+PRP Contact_Type '0.118_ (3.00mm)'
+PRP Current_Rating_(Amps) '8A'
+PRP Fastening_Type 'Locking Ramp'
+PRP Features 'Board Lock'
+PRP Insulation_Color 'Black'
+PRP Insulation_Height '0.290_ (7.37mm)'
+PRP Insulation_Material 'Liquid Crystal Polymer (LCP), Glass Filled'
+PRP Manufacturer 'Molex'
+PRP Manufacturer_Part_Number '0430450400'
+PRP Material_Flammability_Rating 'UL94 V-0'
+PRP Mounting_Type 'Through Hole, Right Angle'
+PRP Number_of_Positions '4'
+PRP Number_of_Rows '2'
+PRP Row_Spacing_-_Mating '0.118_ (3.00mm)'
+PRP Shrouding 'Shrouded - 4 Wall'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'WM1814-ND'
+PRP Termination 'Solder'
+PRP Voltage_Rating '600V'
+TOP 0 2.0614173 2.0866143 270 N 0 23 J9-0
+TOP 1 1.8913386 2.1456694 270 N 68 1 J9-1
+TOP 2 1.8913386 2.0275592 270 N 61 17 J9-2
+TOP 3 1.7732283 2.1456694 270 N 37 1 J9-3
+TOP 4 1.7732283 2.0275592 270 N 36 1 J9-4
+#
+# CMP 35
+CMP 1 1.1830708 0.7598425 0 N C22 CGA3E2X7R1E104K080AA ;0=1,1=0.1772
+PRP Capacitance '0.1µF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_automotive_general_en.pdf'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA3E2X7R1E104K080AA'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-5667-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±10% '
+PRP Voltage_-_Rated '25V'
+TOP 0 1.1456692 0.7598425 270 N 61 66 C22-1
+TOP 1 1.2204724 0.7598425 270 N 69 5 C22-2
+#
+# CMP 36
+CMP 1 1.2362205 1.8011811 270 N C18 CGA3E2X7R1E104K080AA ;0=1,1=0.1772
+PRP Capacitance '0.1µF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_automotive_general_en.pdf'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA3E2X7R1E104K080AA'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-5667-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±10% '
+PRP Voltage_-_Rated '25V'
+TOP 0 1.2362205 1.7637795 180 N 61 45 C18-1
+TOP 1 1.2362205 1.8385827 180 N 20 0 C18-2
+#
+# CMP 37
+CMP 1 0.5775984 1.73 0 N C17 CL10A106MP8NNNC ;0=1,1=0.0000
+PRP Capacitance '10µF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://static6.arrow.com/aropdfconversion/f91a1722e2705c3d73cfb1979021b64ae4055093/19-cl10a106mp8nnnc.pdf'
+PRP Manufacturer 'Samsung Electro-Mechanics'
+PRP Manufacturer_Part_Number 'CL10A106MP8NNNC'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature ' -55°C ~ 85°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-1871-1-ND'
+PRP Temperature_Coefficient 'X5R'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±20%'
+PRP Voltage_-_Rated '10V'
+TOP 0 0.5401968 1.73 270 N 61 53 C17-1
+TOP 1 0.615 1.73 270 N 67 6 C17-2
+#
+# CMP 38
+CMP 1 1.643703 1.0945668 270 N C5 CGA3E2X7R1E104K080AA ;0=1,1=0.0000
+PRP Capacitance '0.1µF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_automotive_general_en.pdf'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA3E2X7R1E104K080AA'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-5667-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±10% '
+PRP Voltage_-_Rated '25V'
+TOP 0 1.643703 1.0571652 180 N 61 36 C5-1
+TOP 1 1.643703 1.1319684 180 N 69 6 C5-2
+#
+# CMP 39
+CMP 1 1.5177165 0.984252 0 N C4 CGA3E2X7R1E104K080AA ;0=1,1=0.0000
+PRP Capacitance '0.1µF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_automotive_general_en.pdf'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA3E2X7R1E104K080AA'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-5667-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±10% '
+PRP Voltage_-_Rated '25V'
+TOP 0 1.4803149 0.984252 270 N 61 40 C4-1
+TOP 1 1.5551181 0.984252 270 N 69 7 C4-2
+#
+# CMP 40
+CMP 1 1.0413408 1.0945668 270 N C3 CGA3E2X7R1E104K080AA ;0=1,1=0.0000
+PRP Capacitance '0.1µF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_automotive_general_en.pdf'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA3E2X7R1E104K080AA'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-5667-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±10% '
+PRP Voltage_-_Rated '25V'
+TOP 0 1.0413408 1.0571652 180 N 61 62 C3-1
+TOP 1 1.0413408 1.1319684 180 N 69 8 C3-2
+#
+# CMP 41
+CMP 1 1.4842542 1.5768503 180 N C2 CGA3E2X7R1E104K080AA ;0=1,1=0.0000
+PRP Capacitance '0.1µF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_automotive_general_en.pdf'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA3E2X7R1E104K080AA'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-5667-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±10% '
+PRP Voltage_-_Rated '25V'
+TOP 0 1.5216558 1.5768503 90 N 61 19 C2-1
+TOP 1 1.4468526 1.5768503 90 N 69 9 C2-2
+#
+# CMP 42
+CMP 3 1.9913111 1.2540158 90 N Y1 ABLS-8.000MHZ-B2-T ;0=1,1=0.0000
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://abracon.com/Resonators/abls.pdf'
+PRP ComponentLink2Description 'Drawing'
+PRP ComponentLink2URL 'https://abracon.com/Support/PackageDrawing/Resonators/ABLS-2D.pdf'
+PRP ESR_(Equivalent_Series_Resistance) '80 Ohms'
+PRP Frequency_Stability '±50ppm'
+PRP Frequency_Tolerance '±20ppm'
+PRP Height_-_Seated_(Max) '0.165_ (4.20mm)'
+PRP Load_Capacitance '18pF'
+PRP Manufacturer 'Abracon LLC'
+PRP Mounting_Type 'Surface Mount'
+PRP Operating_Mode 'Fundamental'
+PRP Operating_Temperature '-20°C ~ 70°C'
+PRP Package/Case 'HC-49/US'
+PRP Packaging 'Cut Tape(CT)'
+PRP Series 'ABLS'
+PRP Size_/_Dimension '0.449_ L x 0.185_ W (11.40mm x 4.70mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '535-9089-1-ND'
+PRP Type 'MHz Crystal'
+TOP 0 1.9913111 1.4410236 90 N 21 1 Y1-1
+TOP 1 1.9913111 1.0670078 90 N 22 1 Y1-2
+#
+# CMP 43
+CMP 19 1.3385848 1.2795276 180 N U1 STM32F405RGT6 ;0=1,1=0.0630
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://www.st.com/content/ccc/resource/technical/document/datasheet/ef/92/76/6d/bb/c2/4f/f7/DM00037051.pdf/files/DM00037051.pdf/jcr:content/translations/en.DM00037051.pdf'
+PRP Connectivity 'CANbus, I²C, IrDA, LINbus, SPI, UART/USART, USB OTG'
+PRP Core_Processor 'ARM® Cortex®-M4'
+PRP Core_Size '32-Bit'
+PRP Data_Converters 'A/D 16x12b; D/A 2x12b'
+PRP Manufacturer 'STMicroelectronics'
+PRP Manufacturer_Part_Number 'STM32F405RGT6'
+PRP Mounting_Type 'Surface Mount'
+PRP Number_of_I/O '51'
+PRP Operating_Temperature '-40°C ~ 85°C (TA)'
+PRP Oscillator_Type 'Internal'
+PRP Package_/_Case '64-LQFP'
+PRP Peripherals 'Brown-out Detect/Reset, DMA, I²S, LCD, POR, PWM, WDT'
+PRP Program_Memory_Size '1MB (1M x 8)'
+PRP Program_Memory_Type 'FLASH'
+PRP RAM_Size '192K x 8'
+PRP Speed '168MHz'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '497-11767-ND'
+PRP Voltage_-_Supply_(VDD) '1.8V ~ 3.6V'
+TOP 0 1.5649628 1.1318898 90 N 69 23 U1-1
+TOP 1 1.5649628 1.1515748 90 N 0 12 U1-2
+TOP 2 1.5649628 1.1712598 90 N 11 0 U1-3
+TOP 3 1.5649628 1.1909449 90 N -1 0 U1-4
+TOP 4 1.5649628 1.2106299 90 N 22 2 U1-5
+TOP 5 1.5649628 1.230315 90 N 21 2 U1-6
+TOP 6 1.5649628 1.25 90 N 50 0 U1-7
+TOP 7 1.5649628 1.269685 90 N 51 2 U1-8
+TOP 8 1.5649628 1.2893701 90 N 0 13 U1-9
+TOP 9 1.5649628 1.3090551 90 N 32 0 U1-10
+TOP 10 1.5649628 1.3287402 90 N 33 0 U1-11
+TOP 11 1.5649628 1.3484252 90 N 61 33 U1-12
+TOP 12 1.5649628 1.3681102 90 N 69 24 U1-13
+TOP 13 1.5649628 1.3877953 90 N 34 0 U1-14
+TOP 14 1.5649628 1.4074803 90 N 35 0 U1-15
+TOP 15 1.5649628 1.4271653 90 N 36 0 U1-16
+TOP 16 1.4862226 1.5059055 180 N 37 0 U1-17
+TOP 17 1.4665376 1.5059055 180 N 61 34 U1-18
+TOP 18 1.4468526 1.5059055 180 N 69 25 U1-19
+TOP 19 1.4271675 1.5059055 180 N 66 1 U1-20
+TOP 20 1.4074825 1.5059055 180 N 46 1 U1-21
+TOP 21 1.3877974 1.5059055 180 N 48 2 U1-22
+TOP 22 1.3681124 1.5059055 180 N 47 1 U1-23
+TOP 23 1.3484274 1.5059055 180 N 54 1 U1-24
+TOP 24 1.3287423 1.5059055 180 N 29 0 U1-25
+TOP 25 1.3090573 1.5059055 180 N 28 0 U1-26
+TOP 26 1.2893722 1.5059055 180 N 27 0 U1-27
+TOP 27 1.2696872 1.5059055 180 N 65 0 U1-28
+TOP 28 1.2500022 1.5059055 180 N 64 0 U1-29
+TOP 29 1.2303171 1.5059055 180 N 63 0 U1-30
+TOP 30 1.2106321 1.5059055 180 N 31 1 U1-31
+TOP 31 1.1909471 1.5059055 180 N 69 26 U1-32
+TOP 32 1.1122069 1.4271653 90 N 0 14 U1-33
+TOP 33 1.1122069 1.4074803 90 N 8 1 U1-34
+TOP 34 1.1122069 1.3877953 90 N 10 1 U1-35
+TOP 35 1.1122069 1.3681102 90 N 9 1 U1-36
+TOP 36 1.1122069 1.3484252 90 N 3 0 U1-37
+TOP 37 1.1122069 1.3287402 90 N 26 1 U1-38
+TOP 38 1.1122069 1.3090551 90 N 55 1 U1-39
+TOP 39 1.1122069 1.2893701 90 N 56 1 U1-40
+TOP 40 1.1122069 1.269685 90 N 57 1 U1-41
+TOP 41 1.1122069 1.25 90 N 38 0 U1-42
+TOP 42 1.1122069 1.230315 90 N 39 0 U1-43
+TOP 43 1.1122069 1.2106299 90 N 0 15 U1-44
+TOP 44 1.1122069 1.1909449 90 N 0 16 U1-45
+TOP 45 1.1122069 1.1712598 90 N 41 0 U1-46
+TOP 46 1.1122069 1.1515748 90 N 25 1 U1-47
+TOP 47 1.1122069 1.1318898 90 N 69 27 U1-48
+TOP 48 1.1909471 1.0531496 180 N 42 0 U1-49
+TOP 49 1.2106321 1.0531496 180 N 2 0 U1-50
+TOP 50 1.2303171 1.0531496 180 N 43 1 U1-51
+TOP 51 1.2500022 1.0531496 180 N 45 1 U1-52
+TOP 52 1.2696872 1.0531496 180 N 23 0 U1-53
+TOP 53 1.2893722 1.0531496 180 N 24 0 U1-54
+TOP 54 1.3090573 1.0531496 180 N 40 0 U1-55
+TOP 55 1.3287423 1.0531496 180 N 62 3 U1-56
+TOP 56 1.3484274 1.0531496 180 N 44 1 U1-57
+TOP 57 1.3681124 1.0531496 180 N 14 1 U1-58
+TOP 58 1.3877974 1.0531496 180 N 5 2 U1-59
+TOP 59 1.4074825 1.0531496 180 N 61 37 U1-60
+TOP 60 1.4271675 1.0531496 180 N 0 17 U1-61
+TOP 61 1.4468526 1.0531496 180 N 0 18 U1-62
+TOP 62 1.4665376 1.0531496 180 N 61 38 U1-63
+TOP 63 1.4862226 1.0531496 180 N 69 28 U1-64
+#
+# CMP 44
+CMP 1 2.0544882 1.81 180 N R5 RC1608F331CS ;0=1,1=0.0000
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.samsungsem.com/kr/support/product-search/chip-resistor/__icsFiles/afieldfile/2019/01/21/RC_Spec_Sheet(1901).pdf'
+PRP Composition 'Thick Film'
+PRP Manufacturer 'Samsung Electro-Mechanics'
+PRP Manufacturer_Part_Number 'RC1608F331CS'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Package '0603 (1608 Metric)'
+PRP Power__(W) '0.1W'
+PRP Resistance '330'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-4604-2-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+TOP 0 2.0918898 1.81 90 N 52 0 R5-1
+TOP 1 2.0170866 1.81 90 N 26 0 R5-2
+#
+# CMP 45
+CMP 1 2.0544882 1.705 180 N R4 RC1608F331CS ;0=1,1=0.0000
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.samsungsem.com/kr/support/product-search/chip-resistor/__icsFiles/afieldfile/2019/01/21/RC_Spec_Sheet(1901).pdf'
+PRP Composition 'Thick Film'
+PRP Manufacturer 'Samsung Electro-Mechanics'
+PRP Manufacturer_Part_Number 'RC1608F331CS'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Package '0603 (1608 Metric)'
+PRP Power__(W) '0.1W'
+PRP Resistance '330'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-4604-2-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+TOP 0 2.0918898 1.705 90 N 53 0 R4-1
+TOP 1 2.0170866 1.705 90 N 55 0 R4-2
+#
+# CMP 46
+CMP 1 2.0544882 1.6 180 N R3 RC1608F331CS ;0=1,1=0.0000
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.samsungsem.com/kr/support/product-search/chip-resistor/__icsFiles/afieldfile/2019/01/21/RC_Spec_Sheet(1901).pdf'
+PRP Composition 'Thick Film'
+PRP Manufacturer 'Samsung Electro-Mechanics'
+PRP Manufacturer_Part_Number 'RC1608F331CS'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Package '0603 (1608 Metric)'
+PRP Power__(W) '0.1W'
+PRP Resistance '330'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-4604-2-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+TOP 0 2.0918898 1.6 90 N 30 0 R3-1
+TOP 1 2.0170866 1.6 90 N 56 0 R3-2
+#
+# CMP 47
+CMP 1 1.7557401 0.988189 180 N R2 ERJ-3GEYJ103V ;0=1,1=0.0000
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/DMA0000COL11.pdf'
+PRP ComponentLink2Description 'Land Pattern'
+PRP ComponentLink2URL 'https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/DMA0000COL17.pdf'
+PRP Composition 'Thick Film'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ103V'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Package '0603 (1608 Metric)'
+PRP Power__(W) '0.1W'
+PRP Resistance '10K'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P10KGCT-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 1.7931417 0.988189 90 N 61 31 R2-1
+TOP 1 1.7183385 0.988189 90 N 51 0 R2-2
+#
+# CMP 48
+CMP 1 1.7559055 0.9210926 0 N R1 RC0603FR-0730KL ;0=1,1=0.0000
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf'
+PRP Composition 'Thick Film'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC0603FR-0730KL'
+PRP Operating_Temperature '-55°C ~ 155°C'
+PRP Package '0603 (1608 Metric)'
+PRP Power__(W) '0.1W'
+PRP Resistance '30K'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-30.0KHRCT-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+TOP 0 1.7185039 0.9210926 270 N 51 1 R1-1
+TOP 1 1.7933071 0.9210926 270 N 7 1 R1-2
+#
+# CMP 49
+CMP 15 1.2874014 0.4015748 270 N J8 SSW-106-01-F-S ;0=2,1=0.4390
+PRP ComponentLink1Description 'Drawing'
+PRP ComponentLink1URL 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://suddendocs.samtec.com/catalog_english/ssw_th.pdf'
+PRP Connector_Type 'Receptacle'
+PRP Contact_Finish_-_Mating 'Gold'
+PRP Contact_Finish_-_Post 'Tin'
+PRP Contact_Finish_Thickness_-_Mating '3.00µin (0.076µm)'
+PRP Contact_Length_-_Post '0.104_ (2.64mm)'
+PRP Contact_Material 'Phosphor Bronze'
+PRP Contact_Shape 'Square'
+PRP Contact_Type 'Forked'
+PRP Current_Rating_(Amps) '5.7A per Contact'
+PRP Fastening_Type 'Push-Pull'
+PRP Insulation_Color 'Black'
+PRP Insulation_Height '0.335_ (8.51mm)'
+PRP Insulation_Material 'Liquid Crystal Polymer (LCP)'
+PRP Manufacturer 'Samtec Inc.'
+PRP Manufacturer_Part_Number 'SSW-106-01-F-S'
+PRP Material_Flammability_Rating 'UL94 V-0'
+PRP Mounting_Type 'Through Hole'
+PRP Number_of_Positions '6'
+PRP Number_of_Rows '1'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Pitch_-_Mating '0.100_ (2.54mm)'
+PRP Style 'Board to Board or Cable'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SAM10025-ND'
+PRP Termination 'Solder'
+TOP 0 1.2874046 0.1515732 90 N 0 28 J8-1
+TOP 1 1.2874046 0.2515732 90 N 0 29 J8-2
+TOP 2 1.2874046 0.3515732 90 N 0 30 J8-3
+TOP 3 1.2874046 0.4515732 90 N 0 31 J8-4
+TOP 4 1.2873982 0.5515796 90 N 69 31 J8-5
+TOP 5 1.2874014 0.6515764 90 N 61 65 J8-6
+#
+# CMP 50
+CMP 15 2.1874014 0.4015748 270 N J7 SSW-106-01-F-S ;0=2,1=0.4390
+PRP ComponentLink1Description 'Drawing'
+PRP ComponentLink1URL 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://suddendocs.samtec.com/catalog_english/ssw_th.pdf'
+PRP Connector_Type 'Receptacle'
+PRP Contact_Finish_-_Mating 'Gold'
+PRP Contact_Finish_-_Post 'Tin'
+PRP Contact_Finish_Thickness_-_Mating '3.00µin (0.076µm)'
+PRP Contact_Length_-_Post '0.104_ (2.64mm)'
+PRP Contact_Material 'Phosphor Bronze'
+PRP Contact_Shape 'Square'
+PRP Contact_Type 'Forked'
+PRP Current_Rating_(Amps) '5.7A per Contact'
+PRP Fastening_Type 'Push-Pull'
+PRP Insulation_Color 'Black'
+PRP Insulation_Height '0.335_ (8.51mm)'
+PRP Insulation_Material 'Liquid Crystal Polymer (LCP)'
+PRP Manufacturer 'Samtec Inc.'
+PRP Manufacturer_Part_Number 'SSW-106-01-F-S'
+PRP Material_Flammability_Rating 'UL94 V-0'
+PRP Mounting_Type 'Through Hole'
+PRP Number_of_Positions '6'
+PRP Number_of_Rows '1'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Pitch_-_Mating '0.100_ (2.54mm)'
+PRP Style 'Board to Board or Cable'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SAM10025-ND'
+PRP Termination 'Solder'
+TOP 0 2.1874046 0.1515732 90 N 34 1 J7-1
+TOP 1 2.1874046 0.2515732 90 N 35 1 J7-2
+TOP 2 2.1874046 0.3515732 90 N 0 22 J7-3
+TOP 3 2.1874046 0.4515732 90 N 0 21 J7-4
+TOP 4 2.1873982 0.5515796 90 N 0 20 J7-5
+TOP 5 2.1874014 0.6515764 90 N 0 19 J7-6
+#
+# CMP 51
+CMP 8 2.1804725 1.81 180 N D4 LTST-C191KGKT ;0=1,1=0.0256
+PRP Colour 'Green'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://optoelectronics.liteon.com/upload/download/DS22-2000-228/LTST-C191KGKT.PDF'
+PRP Current_-_Test '20mA'
+PRP Height_(Max) '0.65mm'
+PRP Lens_Color 'Colourless'
+PRP Lens_Size '1.10mm x 0.80mm'
+PRP Lens_Style 'Rectangle with Flat Top'
+PRP Lens_Transparency 'Clear'
+PRP Manufacturer 'Lite-On Inc.'
+PRP Manufacturer_Part_Number 'LTST-C191KGKT'
+PRP Millicandela_Rating '35mcd'
+PRP Mounting_Type 'Surface Mount'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '1.60mm L x 0.80mm W'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '160-1446-1-ND'
+PRP Viewing_Angle '130°'
+PRP Voltage_-_Forward_(Vf)_(Typ) '2V'
+PRP Wavelength_-_Dominant '571nm'
+PRP Wavelength_-_Peak '574nm'
+TOP 0 2.21 1.81 90 N 61 13 D4-1
+TOP 1 2.1509449 1.81 90 N 52 1 D4-2
+#
+# CMP 52
+CMP 8 2.1804725 1.705 180 N D3 LTST-C191KGKT ;0=1,1=0.0256
+PRP Colour 'Green'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://optoelectronics.liteon.com/upload/download/DS22-2000-228/LTST-C191KGKT.PDF'
+PRP Current_-_Test '20mA'
+PRP Height_(Max) '0.65mm'
+PRP Lens_Color 'Colourless'
+PRP Lens_Size '1.10mm x 0.80mm'
+PRP Lens_Style 'Rectangle with Flat Top'
+PRP Lens_Transparency 'Clear'
+PRP Manufacturer 'Lite-On Inc.'
+PRP Manufacturer_Part_Number 'LTST-C191KGKT'
+PRP Millicandela_Rating '35mcd'
+PRP Mounting_Type 'Surface Mount'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '1.60mm L x 0.80mm W'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '160-1446-1-ND'
+PRP Viewing_Angle '130°'
+PRP Voltage_-_Forward_(Vf)_(Typ) '2V'
+PRP Wavelength_-_Dominant '571nm'
+PRP Wavelength_-_Peak '574nm'
+TOP 0 2.21 1.705 90 N 61 14 D3-1
+TOP 1 2.1509449 1.705 90 N 53 1 D3-2
+#
+# CMP 53
+CMP 8 2.1804725 1.6 180 N D2 LTST-C191KGKT ;0=1,1=0.0256
+PRP Colour 'Green'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://optoelectronics.liteon.com/upload/download/DS22-2000-228/LTST-C191KGKT.PDF'
+PRP Current_-_Test '20mA'
+PRP Height_(Max) '0.65mm'
+PRP Lens_Color 'Colourless'
+PRP Lens_Size '1.10mm x 0.80mm'
+PRP Lens_Style 'Rectangle with Flat Top'
+PRP Lens_Transparency 'Clear'
+PRP Manufacturer 'Lite-On Inc.'
+PRP Manufacturer_Part_Number 'LTST-C191KGKT'
+PRP Millicandela_Rating '35mcd'
+PRP Mounting_Type 'Surface Mount'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '1.60mm L x 0.80mm W'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '160-1446-1-ND'
+PRP Viewing_Angle '130°'
+PRP Voltage_-_Forward_(Vf)_(Typ) '2V'
+PRP Wavelength_-_Dominant '571nm'
+PRP Wavelength_-_Peak '574nm'
+TOP 0 2.21 1.6 90 N 61 18 D2-1
+TOP 1 2.1509449 1.6 90 N 30 1 D2-2
+#
+# CMP 54
+CMP 1 1.1122069 0.9449605 270 N C11 C1608X5R1C225K080AB ;0=1,1=0.0000
+PRP Capacitance '2.2uF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'C1608X5R1C225K080AB'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 85°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-5157-1-ND'
+PRP Temperature_Coefficient 'X5R'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±10%'
+PRP Voltage_-_Rated '16V'
+TOP 0 1.1122069 0.9075589 180 N 61 60 C11-1
+TOP 1 1.1122069 0.9823621 180 N 25 0 C11-2
+#
+# CMP 55
+CMP 1 1.1102362 1.6496063 0 N C10 C1608X5R1C225K080AB ;0=1,1=0.0000
+PRP Capacitance '2.2uF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_commercial_general_midvoltage_en.pdf'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'C1608X5R1C225K080AB'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 85°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-5157-1-ND'
+PRP Temperature_Coefficient 'X5R'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±10%'
+PRP Voltage_-_Rated '16V'
+TOP 0 1.0728346 1.6496063 270 N 61 47 C10-1
+TOP 1 1.1476378 1.6496063 270 N 31 0 C10-2
+#
+# CMP 56
+CMP 1 1.8484272 1.4784251 270 N C9 06035A240JAT2A ;0=1,1=0.0000
+PRP Capacitance '24pF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://datasheets.avx.com/C0GNP0-Dielectric.pdf'
+PRP Manufacturer 'AVX Corporation'
+PRP Manufacturer_Part_Number '06035A240JAT2A'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '0.063_ L x 0.032_ W (1.60mm x 0.81mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '478-10304-1-ND'
+PRP Temperature_Coefficient 'C0G, NP0'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±5%'
+PRP Voltage_-_Rated '50V'
+TOP 0 1.8484272 1.4410235 180 N 21 0 C9-1
+TOP 1 1.8484272 1.5158267 180 N 61 27 C9-2
+#
+# CMP 57
+CMP 1 1.8523642 1.1044095 270 N C8 06035A240JAT2A ;0=1,1=0.0000
+PRP Capacitance '24pF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://datasheets.avx.com/C0GNP0-Dielectric.pdf'
+PRP Manufacturer 'AVX Corporation'
+PRP Manufacturer_Part_Number '06035A240JAT2A'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '0.063_ L x 0.032_ W (1.60mm x 0.81mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '478-10304-1-ND'
+PRP Temperature_Coefficient 'C0G, NP0'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±5%'
+PRP Voltage_-_Rated '50V'
+TOP 0 1.8523642 1.0670079 180 N 22 0 C8-1
+TOP 1 1.8523642 1.1418111 180 N 61 29 C8-2
+#
+# CMP 58
+CMP 1 1.7224431 1.3307873 270 N C7 CGA3E2X7R1H103K080AA ;0=1,1=0.0000
+PRP Capacitance '10000pF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/catalog/spec/mlccspec_automotive_general_en.pdf'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_Part_Number 'CGA3E2X7R1H103K080AA'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-5662-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±10% '
+PRP Voltage_-_Rated '50V'
+TOP 0 1.7224431 1.2933857 180 N 61 28 C7-1
+TOP 1 1.7224431 1.3681889 180 N 69 10 C7-2
+#
+# CMP 59
+CMP 1 1.64764 1.3307873 270 N C6 CL10A105KP8NNNC ;0=1,1=0.0000
+PRP Capacitance '1uF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2019/05/10/19-CL10A105KP8NNNC.pdf'
+PRP Manufacturer 'Samsung Electro-Mechanics'
+PRP Manufacturer_Part_Number 'CL10A105KP8NNNC'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature '-55°C ~ 85°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-1182-1-ND'
+PRP Temperature_Coefficient 'X5R'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±10%'
+PRP Voltage_-_Rated '10V'
+TOP 0 1.64764 1.2933857 180 N 61 35 C6-1
+TOP 1 1.64764 1.3681889 180 N 69 11 C6-2
+#
+# CMP 60
+CMP 1 1.1102384 1.5847243 0 N C1 CL10A106MP8NNNC ;0=1,1=0.0000
+PRP Capacitance '10µF'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://static6.arrow.com/aropdfconversion/f91a1722e2705c3d73cfb1979021b64ae4055093/19-cl10a106mp8nnnc.pdf'
+PRP Manufacturer 'Samsung Electro-Mechanics'
+PRP Manufacturer_Part_Number 'CL10A106MP8NNNC'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Operating_Temperature ' -55°C ~ 85°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-1871-1-ND'
+PRP Temperature_Coefficient 'X5R'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±20%'
+PRP Voltage_-_Rated '10V'
+TOP 0 1.0728368 1.5847243 270 N 61 49 C1-1
+TOP 1 1.14764 1.5847243 270 N 69 12 C1-2
+#

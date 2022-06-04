@@ -1,0 +1,218 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 12 0.2027559 1.0629921 180 N F1 SF-0603FP500M-2 ;0=1,1=0.0071
+PRP Approval_Agency 'UL'
+PRP Breaking_Capacity_@_Rated_Voltage '35A'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://www.bourns.com/docs/Product-Datasheets/SF-0603FPxxxM.pdf'
+PRP Current_Rating_(Amps) '5A'
+PRP DC_Cold_Resistance '0.015 Ohms'
+PRP Fuse_Type 'Board Mount (Cartridge Style Excluded)'
+PRP Manufacturer 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'SF-0603FP500M-2'
+PRP Melting_I²t '2.62'
+PRP Mounting_Type 'Surface Mount'
+PRP Operating_Temperature '-55°C ~ 150°C'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Response_Time 'Fast Blow'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W x 0.012_ H (1.60mm x 0.80mm x 0.18mm)'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SF-0603FP500M-2CT-ND'
+PRP Voltage_Rating_-_DC '32V'
+TOP 0 0.1653543 1.0629921 90 N 67 4 F1-1
+TOP 1 0.2401575 1.0629921 90 N 4 1 F1-2
+#
+# CMP 1
+CMP 4 0.1653543 1.1811024 270 N D1 CDSOD323-T12C ;0=1,1=0.0449
+PRP Bidirectional_Channels '1'
+PRP Capacitance_@_Frequency '3pF @ 1MHz'
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL 'https://www.bourns.com/docs/Product-Datasheets/CDSOD323-TxxC.PDF'
+PRP Current_-_Peak_Pulse_(10/1000µs) '11A (8/20µs)'
+PRP Manufacturer 'Bourns Inc.'
+PRP Manufacturer_Part_Number 'CDSOD323-T12C'
+PRP Mounting_Type 'Surface Mount'
+PRP Operating_Temperature '-55°C ~ 150°C (TJ)'
+PRP Package_/_Case 'SC-76, SOD-323'
+PRP Power_-_Peak_Pulse '350W'
+PRP Power_Line_Protection 'No'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'CDSOD323-T12CCT-ND'
+PRP Type 'Zener'
+PRP Voltage_-_Breakdown_(Min) '13.3V'
+PRP Voltage_-_Clamping_(Max)_@_Ipp '28.3V (Typ)'
+PRP Voltage_-_Reverse_Standoff_(Typ) '12V'
+TOP 0 0.1653543 1.1377953 90 N 67 3 D1-1
+TOP 1 0.1653543 1.2244095 90 N 61 71 D1-2
+#
+# CMP 2
+CMP 6 1.2598425 2.2047243 270 N FID6 FID_1MM_ROUND_SL ;0=1,1=0.3937
+TOP 0 1.2598425 2.2047243 0 N 0 2 FID6-0
+#
+# CMP 3
+CMP 6 2.1574803 1.3070867 270 N FID4 FID_1MM_ROUND_SL ;0=1,1=0.3937
+TOP 0 2.1574803 1.3070867 0 N 0 0 FID4-0
+#
+# CMP 4
+CMP 6 0.0866142 0.1062992 270 N FID2 FID_1MM_ROUND_SL ;0=1,1=0.3937
+TOP 0 0.0866142 0.1062992 0 N 0 1 FID2-0
+#
+# CMP 5
+CMP 16 0.5905388 2.480315 0 N J6 SSW-108-01-F-S ;0=2,1=0.4390
+PRP ComponentLink1Description 'Drawing'
+PRP ComponentLink1URL 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://suddendocs.samtec.com/catalog_english/ssw_th.pdf'
+PRP Connector_Type 'Receptacle'
+PRP Contact_Finish_-_Mating 'Gold'
+PRP Contact_Finish_-_Post 'Tin'
+PRP Contact_Finish_Thickness_-_Mating '3.00µin (0.076µm)'
+PRP Contact_Length_-_Post '0.104_ (2.64mm)'
+PRP Contact_Material 'Phosphor Bronze'
+PRP Contact_Shape 'Square'
+PRP Contact_Type 'Forked'
+PRP Current_Rating_(Amps) '5.7A per Contact'
+PRP Fastening_Type 'Push-Pull'
+PRP Insulation_Color 'Black'
+PRP Insulation_Height '0.335_ (8.51mm)'
+PRP Insulation_Material 'Liquid Crystal Polymer (LCP)'
+PRP Manufacturer 'Samtec Inc.'
+PRP Manufacturer_Part_Number 'SSW-108-01-F-S'
+PRP Material_Flammability_Rating 'UL94 V-0'
+PRP Mounting_Type 'Through Hole'
+PRP Number_of_Positions '8'
+PRP Number_of_Rows '1'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Pitch_-_Mating '0.100_ (2.54mm)'
+PRP Style 'Board to Board or Cable'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SAM11943-ND'
+PRP Termination 'Solder'
+TOP 0 0.9405396 2.4803118 0 N 28 1 J6-1
+TOP 1 0.8405396 2.4803118 0 N 27 1 J6-2
+TOP 2 0.7405396 2.4803118 0 N 65 1 J6-3
+TOP 3 0.6405396 2.4803118 0 N 64 1 J6-4
+TOP 4 0.5405332 2.4803182 0 N 63 1 J6-5
+TOP 5 0.4405364 2.480315 0 N 60 1 J6-6
+TOP 6 0.340538 2.480315 0 N 59 1 J6-7
+TOP 7 0.240538 2.480315 0 N 58 1 J6-8
+#
+# CMP 6
+CMP 16 0.5905388 0.0787402 0 N J5 SSW-108-01-F-S ;0=2,1=0.4390
+PRP ComponentLink1Description 'Drawing'
+PRP ComponentLink1URL 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://suddendocs.samtec.com/catalog_english/ssw_th.pdf'
+PRP Connector_Type 'Receptacle'
+PRP Contact_Finish_-_Mating 'Gold'
+PRP Contact_Finish_-_Post 'Tin'
+PRP Contact_Finish_Thickness_-_Mating '3.00µin (0.076µm)'
+PRP Contact_Length_-_Post '0.104_ (2.64mm)'
+PRP Contact_Material 'Phosphor Bronze'
+PRP Contact_Shape 'Square'
+PRP Contact_Type 'Forked'
+PRP Current_Rating_(Amps) '5.7A per Contact'
+PRP Fastening_Type 'Push-Pull'
+PRP Insulation_Color 'Black'
+PRP Insulation_Height '0.335_ (8.51mm)'
+PRP Insulation_Material 'Liquid Crystal Polymer (LCP)'
+PRP Manufacturer 'Samtec Inc.'
+PRP Manufacturer_Part_Number 'SSW-108-01-F-S'
+PRP Material_Flammability_Rating 'UL94 V-0'
+PRP Mounting_Type 'Through Hole'
+PRP Number_of_Positions '8'
+PRP Number_of_Rows '1'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Pitch_-_Mating '0.100_ (2.54mm)'
+PRP Style 'Board to Board or Cable'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SAM11943-ND'
+PRP Termination 'Solder'
+TOP 0 0.9405396 0.078737 0 N 29 1 J5-1
+TOP 1 0.8405396 0.078737 0 N 49 1 J5-2
+TOP 2 0.7405396 0.078737 0 N 67 10 J5-3
+TOP 3 0.6405396 0.078737 0 N 61 74 J5-4
+TOP 4 0.5405332 0.0787434 0 N 68 4 J5-5
+TOP 5 0.4405364 0.0787402 0 N 61 81 J5-6
+TOP 6 0.340538 0.0787402 0 N 69 29 J5-7
+TOP 7 0.240538 0.0787402 0 N 61 82 J5-8
+#
+# CMP 7
+CMP 15 1.8897638 2.3622047 180 N J4 SSW-106-01-F-S ;0=2,1=0.4390
+PRP ComponentLink1Description 'Drawing'
+PRP ComponentLink1URL 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://suddendocs.samtec.com/catalog_english/ssw_th.pdf'
+PRP Connector_Type 'Receptacle'
+PRP Contact_Finish_-_Mating 'Gold'
+PRP Contact_Finish_-_Post 'Tin'
+PRP Contact_Finish_Thickness_-_Mating '3.00µin (0.076µm)'
+PRP Contact_Length_-_Post '0.104_ (2.64mm)'
+PRP Contact_Material 'Phosphor Bronze'
+PRP Contact_Shape 'Square'
+PRP Contact_Type 'Forked'
+PRP Current_Rating_(Amps) '5.7A per Contact'
+PRP Fastening_Type 'Push-Pull'
+PRP Insulation_Color 'Black'
+PRP Insulation_Height '0.335_ (8.51mm)'
+PRP Insulation_Material 'Liquid Crystal Polymer (LCP)'
+PRP Manufacturer 'Samtec Inc.'
+PRP Manufacturer_Part_Number 'SSW-106-01-F-S'
+PRP Material_Flammability_Rating 'UL94 V-0'
+PRP Mounting_Type 'Through Hole'
+PRP Number_of_Positions '6'
+PRP Number_of_Rows '1'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Pitch_-_Mating '0.100_ (2.54mm)'
+PRP Style 'Board to Board or Cable'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SAM10025-ND'
+PRP Termination 'Solder'
+TOP 0 1.6397622 2.3622079 180 N 11 1 J4-1
+TOP 1 1.7397622 2.3622079 180 N -1 0 J4-2
+TOP 2 1.8397622 2.3622079 180 N 68 2 J4-3
+TOP 3 1.9397622 2.3622079 180 N 61 15 J4-4
+TOP 4 2.0397686 2.3622015 180 N 69 30 J4-5
+TOP 5 2.1397654 2.3622047 180 N 61 16 J4-6
+#
+# CMP 8
+CMP 14 1.6141732 0.3149606 0 N J3 SSW-104-01-F-S ;0=2,1=0.4390
+PRP ComponentLink1Description 'Drawing'
+PRP ComponentLink1URL 'http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://suddendocs.samtec.com/catalog_english/ssw_th.pdf'
+PRP Connector_Type 'Receptacle'
+PRP Contact_Finish_-_Mating 'Gold'
+PRP Contact_Finish_-_Post 'Tin'
+PRP Contact_Finish_Thickness_-_Mating '3.00µin (0.076µm)'
+PRP Contact_Length_-_Post '0.104_ (2.64mm)'
+PRP Contact_Material 'Phosphor Bronze'
+PRP Contact_Shape 'Square'
+PRP Contact_Type 'Forked'
+PRP Current_Rating_(Amps) '5.7A per Contact'
+PRP Fastening_Type 'Push-Pull'
+PRP Insulation_Color 'Black'
+PRP Insulation_Height '0.335_ (8.51mm)'
+PRP Insulation_Material 'Liquid Crystal Polymer (LCP)'
+PRP Manufacturer 'Samtec Inc.'
+PRP Manufacturer_Part_Number 'SSW-104-01-F-S'
+PRP Material_Flammability_Rating 'UL94 V-0'
+PRP Mounting_Type 'Through Hole'
+PRP Number_of_Positions '4'
+PRP Number_of_Rows '1'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Pitch_-_Mating '0.100_ (2.54mm)'
+PRP Style 'Board to Board or Cable'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SAM10018-ND'
+PRP Termination 'Solder'
+TOP 0 1.7641732 0.3149606 0 N 18 3 J3-1
+TOP 1 1.6641732 0.3149606 0 N 61 32 J3-2
+TOP 2 1.5641732 0.3149606 0 N 18 2 J3-3
+TOP 3 1.4641732 0.3149606 0 N 61 41 J3-4
+#
