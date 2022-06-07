@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PMBV3.PcbDoc]
+   Generated File[PMBV3.TXT]
+   Generated File[PMBV3.LDP]
+   Generated File[PMBV3.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:18:08 PM On 2022-05-02
